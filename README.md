@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Proyecto de prueba
 
 Breve descripción del proyecto. Por ejemplo:
 
