@@ -16,3 +16,7 @@ saludar("grupo");
 console.log("5 de Julio , nuevo cambio");
 console.log("hola grupo 5 de Julio de desarrollo Paul");
 console.log("Holis");
+
+function Sumar(a, b) {
+  console.log(a + b);
+}
