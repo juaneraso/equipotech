@@ -56,3 +56,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 Juan Eraso - [tu correo o red social]
 
 Repositorio del proyecto: [https://github.com/usuario/nombre-del-repositorio](https://github.com/usuario/nombre-del-repositorio)
+
+## 📸 Capturas de pantalla
+
+![Vista principal de la app](./assets/Captura.png)
