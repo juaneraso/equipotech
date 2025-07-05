@@ -22,17 +22,37 @@ Este proyecto es una aplicación web construida con React y Node.js que permite 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/usuario/nombre-del-repositorio.git
+   ```
+2. Instala las dependencias:
+   ```bash
+   cd nombre-del-repositorio
+   npm install
+   ```
+3. Inicia el servidor:
+   ```bash
+   npm start
+   ```
 
----
+## 📸 Capturas de pantalla
 
-## 🙋‍♂️ Reconocimiento a los colaboradores
+_(opcional: puedes agregar imágenes del proyecto aquí)_
 
-Agradecemos a todos los que han contribuido a este proyecto:
+## 🤝 Contribuciones
 
-🌟 [Nombre de colaborador 1](https://github.com/usuario1 )  
-🌟 [Nombre de colaborador 2](https://github.com/usuario2 )  
-🌟 [Nombre de colaborador 3](https://github.com/usuario3 )
+¡Las contribuciones son bienvenidas! Si quieres mejorar algo o proponer una funcionalidad nueva:
 
-> ¿Quieres aparecer aquí? ¡Solo tienes que hacer un PR!
+1. Haz un fork del proyecto
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`)
+3. Realiza tus cambios y haz commit (`git commit -m 'Agrega nueva funcionalidad'`)
+4. Haz push a tu rama (`git push origin feature/nueva-funcionalidad`)
+5. Abre un Pull Request
 
----
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
+
+## ✉️ Contacto
+
+Juan Eraso - [tu correo o red social]
+
+Repositorio del proyecto: [https://github.com/usuario/nombre-del-repositorio](https://github.com/usuario/nombre-del-repositorio)
