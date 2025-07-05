@@ -12,3 +12,5 @@ function saludar(grupo) {
 }
 
 saludar("grupo");
+
+console.log("5 de Julio , nuevo cambio");
