@@ -59,4 +59,4 @@ Repositorio del proyecto: [https://github.com/usuario/nombre-del-repositorio](ht
 
 ## 📸 Capturas de pantalla
 
-![Vista principal de la app](../equipotech/assets/Captura.PNG)
+![Vista principal de la app](assets/Captura.PNG)
