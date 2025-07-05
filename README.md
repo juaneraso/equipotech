@@ -22,3 +22,17 @@ Este proyecto es una aplicación web construida con React y Node.js que permite 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/usuario/nombre-del-repositorio.git
+
+---
+
+## 🙋‍♂️ Reconocimiento a los colaboradores
+
+Agradecemos a todos los que han contribuido a este proyecto:
+
+🌟 [Nombre de colaborador 1](https://github.com/usuario1 )  
+🌟 [Nombre de colaborador 2](https://github.com/usuario2 )  
+🌟 [Nombre de colaborador 3](https://github.com/usuario3 )
+
+> ¿Quieres aparecer aquí? ¡Solo tienes que hacer un PR!
+
+---
